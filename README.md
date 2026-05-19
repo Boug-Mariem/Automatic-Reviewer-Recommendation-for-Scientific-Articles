@@ -14,12 +14,13 @@ Le code est fourni sous forme de notebook Jupyter (.ipynb) et peut être exécut
 - sur Google Colab
 - ou en local (Jupyter Notebook)
 
-ien Google Colab :  
+lien Google Colab :  
 https://colab.research.google.com/drive/1SarUfRkUMiMDXWQSdtbP8Hw8YAMLmqE0?usp=sharing
 
 ---
 
 ## Structure du projet
+```
 data/
 │
 ├── All_Articles_Combined(Sheet1).csv
@@ -27,7 +28,9 @@ data/
 │
 ├── arabic_stopwords.txt
 │ → Liste des mots vides en arabe utilisée pour le prétraitement
+```
 
+```
 sortie/
 │
 → Contient les données générées à chaque étape du pipeline :
@@ -37,7 +40,7 @@ sortie/
 - encodage
 - résultats intermédiaires
 - modèles entraînés
-
+```
 
 ---
 
