@@ -1,6 +1,6 @@
-#  Reviewer Recommendation System for Arabic Scientific Articles
+# Reviewer Recommendation System for Arabic Scientific Articles
 
-##  Project Objective
+## Project Objective
 
 Ce projet a pour objectif de recommander automatiquement des reviewers pour des articles scientifiques en langue arabe en utilisant des techniques d’apprentissage automatique et de traitement du langage naturel (NLP).
 
@@ -8,7 +8,7 @@ Le système analyse le contenu des articles et propose des reviewers pertinents 
 
 ---
 
-##  Notebook
+## Notebook
 
 Le code est fourni sous forme de notebook Jupyter (.ipynb) et peut être exécuté :
 - sur Google Colab
@@ -19,7 +19,7 @@ https://colab.research.google.com/drive/1SarUfRkUMiMDXWQSdtbP8Hw8YAMLmqE0?usp=sh
 
 ---
 
-##  Structure du projet
+## Structure du projet
 data/
 │
 ├── All_Articles_Combined(Sheet1).csv
